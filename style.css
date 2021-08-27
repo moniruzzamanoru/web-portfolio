@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -42,6 +42,9 @@ section{
     font-weight: 700;
 
 }
+.link-button:hover{
+    color:indianred;
+}
 .dream-area{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
@@ -68,6 +71,35 @@ section{
     border-image: linear-gradient(180deg,blue, cyan);
     border-image-slice: 1;
 }
+.section-name{
+    text-align: center;
+}
+.onethird-width{
+    margin-left: 8%;
+    width: 20%;
+    float: left;
+    padding-left: 2%;
+    
+}
+.onethird-width img{
+    width: 100%;
+}
+.onethird-width :hover{
+    width: 200%;
+
+}
+.contact-area{
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+ 
+    text-align: center;
+    background-color:lightcoral;
+}
+
 footer p{
     text-align: center;
     font-size: 8px;
