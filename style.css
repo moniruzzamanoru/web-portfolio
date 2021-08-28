@@ -74,6 +74,9 @@ section{
 .section-name{
     text-align: center;
 }
+.lates-work{
+    padding-bottom: 50px;
+}
 .onethird-width{
     margin-left: 8%;
     width: 20%;
@@ -88,10 +91,12 @@ section{
     width: 200%;
 
 }
+
+
 .contact-area{
     height: 60px;
     border-radius: 10px;
-    margin-left: 500px;
+    margin-left: 400px;
     margin-right: 400px;
     padding-left: 20px;
     padding-right: 20px;
@@ -99,6 +104,7 @@ section{
     text-align: center;
     background-color:lightcoral;
 }
+
 
 footer p{
     text-align: center;
